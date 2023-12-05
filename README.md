@@ -1,5 +1,6 @@
 ### Hi there 👋
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/3776AB?style=뱃지모양&logo=로고&logoColor=3776AB"/></a>
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
 <!--
 **James1412/James1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
