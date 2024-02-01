@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I'm currently learning Flutter with Firebase and LLM.<br>🔭 I'm currently working on mobile application projects with Flutter
+🌱 I'm currently learning Flutter with Firebase and LLM with Python.<br>🔭 I'm currently working on mobile application projects with Flutter
 
 
 ## 🌐 Socials:
